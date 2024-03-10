@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МоеПриложение</string>
+
+    <string name="defaultpassword">User Guide <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a></string>
+    <string name="hello">Студент ГБПОУ ВО БТПИТ КМА(Курская магнитная аномалия)</string>
+</resources>

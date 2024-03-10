@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPrApp</string>
+    <string name="hello">Студент БТПИТ на Английском</string>
+    <string name="defaultpassword">User Guide <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a></string>
+    <string name="text_post" translatable="false">Шутка № 33 (Сталкер в аду)\nКто рассказывает: одиночки и чистонебовцы\n\nПопал как-то сталкер на экскурсию в ад.\nЕму показывает черт муки, которые грешники терпят: (с восхищением) Кипящая смола! ПЛЕТКИ! Раскаленные УГЛИ! Огонь кругоммм… Вопли. Серой воняет…\nСталкер посмотрел на все это и говорит чертям:\n— Ну что, чуваки (спокойно). (Вздыхает) Тепло у вас тут. СУХО. Эх… Да и развлечений у вас тут побольше, чем у нас, на Болотах (С тоном скепсиса). Так что я пожалуй… тут останусь (улыбается).\n <a href="http://www.cleverfinger.com.au/user-guide/">http://www.cleverfinger.com.au/user-guide/</a></string>
+    <string name="countLIke" translatable="false">0</string>
+    <string name="countShare" translatable="false">50</string>
+    <string name="countViews" translatable="false">999</string>
+</resources>
